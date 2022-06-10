@@ -1,0 +1,19 @@
+footer {        
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;     
+    background-color: #005276 !important;
+}  
+.video {         
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navbar{
+   background-color: #005276 !important;
+}
+#registro {
+   background-color: #005276 !important;  
+}
